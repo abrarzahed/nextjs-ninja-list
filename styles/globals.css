@@ -38,3 +38,11 @@ footer {
   color: #777;
   border-top: 1px solid #eaeaea;
 }
+
+.error {
+  text-align: center;
+}
+.error a {
+  text-decoration: underline;
+  color: #4979ff;
+}
